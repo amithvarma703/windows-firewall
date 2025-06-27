@@ -49,5 +49,6 @@ Right-clicked → Deleted to restore original state.
 📄 Commands Used:
 dism /online /Enable-Feature /FeatureName: TelnetClient
 telnet localhost 23
+
 <img width="602" alt="image" src="https://github.com/user-attachments/assets/b8194431-8169-4645-ae35-0e3cc8038753" />
 
